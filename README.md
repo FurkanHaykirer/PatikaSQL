@@ -1,2 +1,3 @@
 # PatikaSQL
  ÖDEV1
+ÖNJKNJNMÖNMMÖNMÖMNÖNMNÖMNMÖ
